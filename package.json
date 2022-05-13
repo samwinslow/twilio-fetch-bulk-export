@@ -1,0 +1,15 @@
+{
+  "name": "twilio-fetch-bulk-export",
+  "version": "1.0.0",
+  "description": "Fetch and concat bulk exports from Twilio",
+  "main": "index.js",
+  "repository": "git@github.com:samwinslow/twilio-fetch-bulk-export.git",
+  "author": "Sam Winslow <4645779+samwinslow@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-fetch": "^3.2.4",
+    "twilio": "^3.77.0"
+  },
+  "type": "module"
+}
